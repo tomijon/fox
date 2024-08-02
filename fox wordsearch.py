@@ -6,7 +6,7 @@ Created: 02/08/2024
 Last Edit: 02/08/2024
 """
 from sys import stderr
-from random import shuffle, choice
+from random import choice
 from time import time as current_time
 
 
